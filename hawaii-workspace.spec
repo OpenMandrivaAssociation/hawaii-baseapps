@@ -1,5 +1,5 @@
 Summary:	Base applications for the Hawaii desktop
-Name:		greenisland
+Name:		hawaii-workspace
 Version:	0.5.0
 Release:	1
 Group:		Graphical desktop/Other
