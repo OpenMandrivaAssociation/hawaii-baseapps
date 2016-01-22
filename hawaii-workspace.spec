@@ -39,3 +39,6 @@ Base applications for the Hawaii desktop environment.
 %makeinstall_std -C build
 
 %files
+%{_sysconfdir}/xdg/autostart/*.desktop
+%{_bindir}/hawaii-*
+%{_datadir}/applications/*.desktop
