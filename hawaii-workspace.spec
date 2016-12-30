@@ -1,6 +1,6 @@
 Summary:	Base applications for the Hawaii desktop
 Name:		hawaii-workspace
-Version:	0.7.0
+Version:	0.8.1
 Release:	1
 Group:		Graphical desktop/Other
 License:	BSD and LGPLv2+ and GPLv3+
