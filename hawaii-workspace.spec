@@ -4,7 +4,7 @@ Version:	0.8.1
 Release:	1
 Group:		Graphical desktop/Other
 License:	BSD and LGPLv2+ and GPLv3+
-URL:		http://www.hawaiios.org
+URL:		https://www.hawaiios.org
 Source0:	https://github.com/hawaii-desktop/hawaii-workspace/releases/download/v%{version}/%{name}-%{version}.tar.xz
 BuildRequires:	pkgconfig(Qt5Core)
 BuildRequires:	pkgconfig(Qt5DBus)
